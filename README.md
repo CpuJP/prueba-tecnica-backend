@@ -45,8 +45,10 @@ cd prueba-tecnica-backend
 ```
 
 O bien desde tu IDE (Recomendado: IntelliJ o NetBeans) ejecutando la clase `PruebaTecnicaScApplication`.
+
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /></a>
 <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/IDE-NetBeans-blue?logo=apachenetbeanside&logoColor=white" alt="NetBeans" /></a>
+
 3. Accedé a Swagger UI para probar los endpoints:
 
 ```
