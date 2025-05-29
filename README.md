@@ -44,7 +44,7 @@ cd prueba-tecnica-backend
 ./mvnw spring-boot:run
 ```
 
-O bien desde tu IDE ejecutando la clase `PruebaTecnicaScApplication`.
+O bien desde tu IDE (Recomendado: IntelliJ o NetBeans) ejecutando la clase `PruebaTecnicaScApplication`.
 
 3. Accedé a Swagger UI para probar los endpoints:
 
