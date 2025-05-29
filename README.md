@@ -1,12 +1,13 @@
 # Prueba Técnica Backend - API de Películas 🎬
 
-# Prueba Técnica Backend - API de Películas 🎬
+
 
 ![Build with Maven](https://img.shields.io/badge/build-Maven-blue)
 ![Tests with JUnit 5](https://img.shields.io/badge/tests-JUnit%205-green)
 ![Swagger Docs](https://img.shields.io/badge/docs-Swagger%20UI-brightgreen)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen)
+
 Este proyecto es una **API RESTful** desarrollada en **Java 21** utilizando **Spring Boot 3.5.0**, como parte de una prueba técnica para el rol de **desarrollador backend**. La aplicación permite gestionar un catálogo de películas, ofreciendo operaciones de consulta, registro y validación.
 
 ## 🚀 Tecnologías utilizadas
